@@ -31,7 +31,7 @@
 ### Быстрый старт:
 
 1. Клонируйте репозиторий:  
-   `git clone `
+   `git clone https://github.com/grishuchkov/Hangman-game.git`
 
 2. Для сборки проекта используйте стандартную команду: `gradle clean build`. 
 3. Это создает `Hangman-1.0-SNAPSHOT.jar` в каталоге `build/libs`, приложение теперь доступно для запуска с использованием `java -jar Hangman-1.0-SNAPSHOT.jar`. Командная строка должна находиться в директории `build/libs`.
